@@ -69,6 +69,7 @@ int main() {
 		else {
 			cout << "\nSuccessfully logged in" << endl;
 			system("PAUSE");
+			system("CLS");
 			return 1;
 		}
 
